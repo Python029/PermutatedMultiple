@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PermutatedMultiple", "PermutatedMultiple\PermutatedMultiple.pyproj", "{F88D31BA-7816-4115-95C5-2162550B2A85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F88D31BA-7816-4115-95C5-2162550B2A85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F88D31BA-7816-4115-95C5-2162550B2A85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70A4330B-AF4C-46BF-AA22-0C9D237A0537}
+	EndGlobalSection
+EndGlobal
